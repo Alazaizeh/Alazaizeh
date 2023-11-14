@@ -17,8 +17,8 @@
  
 ###
 
-  ![Omx302's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omx302\&rank_icon=github)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omx302&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=default&hide_border=false&order=2" height="195" alt="languages graph"  />
+  ![Alazaizeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alazaizeh\&rank_icon=github)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alazaizeh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=default&hide_border=false&order=2" height="195" alt="languages graph"  />
 
 ###
 <h2 align="left">About me</h2>
